@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600;700;800;900&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+
+.navbar {
+    margin-top: 50px;
+    margin-bottom: 30px;
+   
+}
+
+.navbar .container {
+    border-bottom: 1px solid rgba(17, 17, 17, 0.15);
+}
+
+.navbar-brand{
+    font-weight: 700;
+font-size: 40px;
+line-height: 160%;
+color: #111111;
+
+}
+
+.raju {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.raju h4{
+    font-weight: 700;
+font-size: 24px;
+line-height: 160%;
+color: #111111;
+}
+
+.raju span{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: rgba(17, 17, 17, 0.6);
+}
+
+.imageGallery h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 160%;
+    color: #111111;
+    padding-right: 60px;
+    margin-bottom: 16px;
+}
+
+.a{
+    margin-bottom: 16px;
+}
+
+.blogTitle{
+    background: rgba(96, 71, 236, 0.1);
+border: 1px solid #6047EC;
+border-radius: 8px;
+}
+
+.blogTitle .card-body{
+    font-weight: 700;
+font-size: 24px;
+line-height: 160%;
+color: #6047EC;
+
+}
+
+.blogInfo{
+    background: rgba(17, 17, 17, 0.05);
+border-radius: 8px;
+}
+
+.blogInfo h4{
+    font-weight: 700;
+font-size: 24px;
+line-height: 160%;
+color: #111111;
+margin-top: 10px;
+}
+
+.blogInfo .card-body{
+    font-weight: 600;
+font-size: 18px;
+line-height: 160%;
+color: #111111;
+}
+.blog{
+    
+background: #FFFFFF;
+border-radius: 8px;
+}

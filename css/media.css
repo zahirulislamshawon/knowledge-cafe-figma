@@ -1,0 +1,173 @@
+@media(max-width:1399px){
+
+    .navbar-brand {
+        font-size: 35px;
+        line-height: 150%;
+
+    }
+
+    .blogTitle .card-body {
+        font-size: 20px;
+        line-height: 155%;
+    }
+
+    .blogInfo h4 {
+        font-size: 20px;
+        line-height: 150%;
+    }
+
+    .blogInfo .card-body {
+        font-size: 14px;
+        line-height: 140%;
+    }
+
+    .raju h4 {
+        font-size: 20px;
+        line-height: 140%;
+        padding-left: 7px;
+    }
+
+    .raju span {
+        font-size: 14px;
+        line-height: 151%;
+        padding-left: 7px;
+    }
+
+    .imageGallery h2 {
+        font-size: 30px;
+        line-height: 150%;
+    }
+
+}
+
+
+@media(max-width:1199px){
+
+    .navbar-brand {
+        font-size: 30px;
+        line-height: 150%;
+    }
+
+    .blogTitle .card-body {
+        font-size: 17px;
+        line-height: 135%;
+    }
+
+    .blogInfo {
+        margin-top: -15px;
+    }
+
+    .blogInfo .card-body {
+        font-size: 11px;
+        line-height: 136%;
+        padding: 4px;
+    }
+
+    .raju {
+        margin-top: 25px;
+    }
+    .raju h4 {
+        font-size: 18px;
+        line-height: 144%;
+        padding-left: 7px;
+    }
+
+    .raju span {
+        font-size: 12px;
+        line-height: 148%;
+        padding-left: 7px;
+    }
+    .imageGallery h2 {
+        font-size: 25px;
+        line-height: 146%;
+    }
+
+    .mt-5 {
+        margin-top: 2rem!important;
+    }
+}
+
+
+
+@media(max-width:991px){
+    .navbar {
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+    .navbar-brand {
+        font-size: 25px;
+        line-height: 147%;
+    }
+    .blogTitle .card-body {
+        font-size: 12px;
+        line-height: 80%;
+    }
+    .blogInfo h4 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    .blogInfo .card-body {
+        font-size: 8px;
+        line-height: 136%;
+        padding: 0px;
+    }
+
+    .raju h4 {
+        font-size: 13px;
+    }
+}
+
+
+@media(max-width:767px){
+    .navbar {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+
+    .blogTitle .card-body {
+        font-size: 10px;
+        line-height: 133%;
+        padding-left: 29px;
+    }
+
+    .blogInfo h4 {
+        font-size: 10px;
+        line-height: 138%;
+    }
+    .blogInfo .card-body {
+        font-size: 8px;
+        line-height: 133%;
+        padding: 6px;
+    }
+
+    .p-3 {
+        padding: 0rem!important;
+    }
+    .p-4 {
+        padding: 0.5rem!important;
+    }
+
+    .imageGallery h2 {
+        font-size: 15px;
+        line-height: 141%;
+        margin-top: 8px;
+    }
+    
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+        font-size: 12px;
+    }
+    a {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:575px){
+
+    .navbar {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    
+}
